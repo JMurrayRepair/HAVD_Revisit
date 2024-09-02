@@ -1,0 +1,6 @@
+N1 - PC			AMD 5800X, 32GB RAM
+N2 - Laptop		Intel i5-11400H, 16GB RAM
+V1V - N1 VirtualBox	Allocated: 4v cores, 8GB RAM, 125GB disk
+V2V - N2 VirtualBox	Allocated: 4v cores, 8GB RAM, 125GB disk
+V3P - Proxmox		Allocated: 4v cores, 8GB RAM, 125GB disk
+AWS - AWS Microsoft Windows Server instance c5.xlarge
